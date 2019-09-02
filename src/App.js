@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div id="study">
         <h1>안녕하세요 리액트</h1>
-        <Props name="Props test" />
+        <Props name="Props test.." />
         <Props />
       </div>
     );
