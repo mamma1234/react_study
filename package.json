@@ -6,9 +6,15 @@
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
+    "immer": "^5.2.0",
+    "node-sass": "^4.13.0",
     "react": "16.5.2",
     "react-dom": "16.5.2",
-    "react-scripts": "2.0.4"
+    "react-redux": "^7.1.3",
+    "react-scripts": "2.0.4",
+    "redux": "^4.0.5",
+    "redux-actions": "^2.6.5",
+    "styled-components": "^4.4.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,5 +22,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

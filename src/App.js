@@ -5,6 +5,8 @@ import LifeCycle from './LifeCycle';
 import LifeCycle2 from './LifeCycle2';
 import LifeCycle3 from './LifeCycle3';
 import LifeCycle4 from './LifeCycle4';
+import Doc1 from './Doc1';
+import Telephone from './Telephone';
 
 const styles = {
   fontFamily: 'sans-serif',
@@ -49,6 +51,8 @@ class App extends Component {
         <button onClick={this.handleClick}>shouldComponentUpdate</button>
         <LifeCycle3 />
         <LifeCycle4 />
+        <Doc1 />
+        <Telephone />
       </div>
     );
   }
