@@ -6,7 +6,7 @@
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
-    "immer": "^5.2.0",
+    "immer": "^8.0.1",
     "node-sass": "^4.13.0",
     "react": "16.5.2",
     "react-dom": "16.5.2",

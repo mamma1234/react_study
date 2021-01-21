@@ -4813,10 +4813,10 @@ immer@1.7.2:
   resolved "https://registry.yarnpkg.com/immer/-/immer-1.7.2.tgz#a51e9723c50b27e132f6566facbec1c85fc69547"
   integrity sha512-4Urocwu9+XLDJw4Tc6ZCg7APVjjLInCFvO4TwGsAYV5zT6YYSor14dsZR0+0tHlDIN92cFUOq+i7fC00G5vTxA==
 
-immer@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-5.2.0.tgz#d5bc1850b9cce3bbf9c809c91b5d60f11c415462"
-  integrity sha512-fstQQo9692Y7ET02wKp5iq5HoHAty+3jouMzVvjloQYHtIs6STzNHXvxLPCRprRcGrJ1DYq5gyLv6+KEf3VGgw==
+immer@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-8.0.1.tgz#9c73db683e2b3975c424fb0572af5889877ae656"
+  integrity sha512-aqXhGP7//Gui2+UrEtvxZxSquQVXTpZ7KDxfCcKAF3Vysvw0CViVaW9RZ1j1xlIYqaaaipBoqdqeibkc18PNvA==
 
 import-cwd@^2.0.0:
   version "2.1.0"
